@@ -1,0 +1,6 @@
+C:\Users\The Witcher\source\repos\Lab15 TRPO\Lab15 TRPO\bin\Debug\Lab15 TRPO.exe.config
+C:\Users\The Witcher\source\repos\Lab15 TRPO\Lab15 TRPO\bin\Debug\Lab15 TRPO.exe
+C:\Users\The Witcher\source\repos\Lab15 TRPO\Lab15 TRPO\bin\Debug\Lab15 TRPO.pdb
+C:\Users\The Witcher\source\repos\Lab15 TRPO\Lab15 TRPO\obj\Debug\Lab15 TRPO.csprojAssemblyReference.cache
+C:\Users\The Witcher\source\repos\Lab15 TRPO\Lab15 TRPO\obj\Debug\Lab15 TRPO.exe
+C:\Users\The Witcher\source\repos\Lab15 TRPO\Lab15 TRPO\obj\Debug\Lab15 TRPO.pdb
